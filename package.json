@@ -1,0 +1,36 @@
+{
+  "name": "thumos-archives",
+  "description": "",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MuradBuyukasik/thumos-archives.git"
+  },
+  "author": "Murad Buyukasik",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/MuradBuyukasik/thumos-archives/issues"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "homepage": "https://github.com/MuradBuyukasik/thumos-archives#readme",
+  "dependencies": {
+    "@notionhq/client": "^0.4.13",
+    "next": "^12.0.9",
+    "next-auth": "^4.1.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.13",
+    "@types/react": "^17.0.38",
+    "autoprefixer": "^10.4.2",
+    "postcss": "^8.4.5",
+    "tailwindcss": "^3.0.18",
+    "typescript": "^4.5.5"
+  }
+}
