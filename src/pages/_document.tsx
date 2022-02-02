@@ -14,7 +14,7 @@ class MyDocument extends Document {
                 <Head>
 
                 </Head>
-                <body className="bg-gray-50 dark:bg-slate-900 px-3">
+                <body className="bg-gray-50 dark:bg-zinc-900 px-3">
                     <Main />
                     <NextScript />
                 </body>
